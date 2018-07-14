@@ -2,7 +2,7 @@
 
 ## Mechanics
 Engineering Mechanics, Mechanics of Solids, Machine Design, Theory of Machine, Vibrations
-- Mecanum Wheels [animation]{https://i.imgur.com/oP1IdQ6.gifv} [reddit]{https://www.reddit.com/r/educationalgifs/comments/8r4ql5/what_are_mecanum_wheels/}
+- Mecanum Wheels [animation](https://i.imgur.com/oP1IdQ6.gifv) [reddit](https://www.reddit.com/r/educationalgifs/comments/8r4ql5/what_are_mecanum_wheels/)
 - 
 
 ## Thermal Engineering
